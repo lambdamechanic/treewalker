@@ -14,7 +14,7 @@
   "type": "commonjs",
   "dependencies": {
     "minitsis": "^6.0.2",
-    "mnemonist": "^0.40.3",
+    "radix3": "^1.1.2",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
